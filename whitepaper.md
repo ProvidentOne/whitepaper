@@ -18,9 +18,9 @@ Version 0.1
 
 ## Abstract
 
-This whitepaper describes an insurance vehicle that can handle insurance subscribers, claims examination of claims and investments on top of the insurance float in a decentralized manner using an Ethereum-compatible blockchain ledger.
+This whitepaper describes an insurance vehicle that can handle insurance subscribers, examination of claims and investments on top of the insurance float in a decentralized manner using an Ethereum-compatible blockchain ledger.
 
-By challenging the information assymmetry in tradicional insurance models, an insurance fund can be turned into an investment vehicle in which investors will profit from the problem the insurance protects by investing on it of getting better over time, even if also by the existance of the insurance itself.
+By challenging the information asymmetry in tradicional insurance models, an insurance fund can be turned into an investment vehicle in which investors will profit from the problem the insurance protects by investing on it of getting better over time, even if also by the existance of the insurance itself.
 
  **Disclaimer** : This document is not (nor it attempts to be) an academic paper. We would be naïve to think this is a final version of the protocol, with the improvement rate of Ethereum and Solidity being so fast. Feedback and suggestions are always more than welcome. This is an ongoing and community driven effort.
 
